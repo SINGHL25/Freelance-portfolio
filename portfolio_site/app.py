@@ -1,4 +1,8 @@
 import streamlit as st
+import os
+
+st.image(os.path.join("assets", "profile.jpg"), width=200)
+
 
 # --- Page Config ---
 st.set_page_config(page_title="Akhilesh Singh - Portfolio", page_icon="📊", layout="wide")
