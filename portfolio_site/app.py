@@ -1,7 +1,5 @@
 import streamlit as st
-import os
 
-st.image(os.path.join("assets", "profile.jpg"), width=200)
 
 
 # --- Page Config ---
