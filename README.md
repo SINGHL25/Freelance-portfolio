@@ -1,4 +1,6 @@
 # Freelance-portfolio
+<img width="683" height="687" alt="image" src="https://github.com/user-attachments/assets/93e820a2-cf84-4cbe-b817-7f8b55f9fc54" />
+
 Freelancing portfolio blueprint
 🌐 Freelance Portfolio Blueprint
 🔹 1. Brand Identity (Professional Look)
