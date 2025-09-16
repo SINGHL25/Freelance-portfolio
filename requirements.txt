@@ -9,13 +9,13 @@ matplotlib
 seaborn
 
 # Database and data connections
-sqlalchemy>=2.0.0
+sqlalchemy
 sqlite3  # Usually comes with Python
 psycopg2-binary>=2.9.0  # PostgreSQL adapter
 
 # Utility libraries
-python-dotenv>=1.0.0
-requests>=2.31.0
+python-dotenv
+requests
 openpyxl>=3.1.0  # Excel file support
 xlrd>=2.0.0  # Legacy Excel support
 
@@ -24,6 +24,6 @@ redis>=4.6.0  # Caching (optional)
 schedule>=1.2.0  # Task scheduling (optional)
 
 # Development tools (optional)
-black>=23.0.0
-flake8>=6.0.0
-pytest>=7.4.0
+black
+flake
+pytest
