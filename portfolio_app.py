@@ -1,4 +1,5 @@
 # Process uploaded or sample data
+pip install -r requirements.txt --verbose
     if uploaded_file or 'demo_data' in st.session_state:
         try:
             # Load data
