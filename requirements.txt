@@ -1,12 +1,12 @@
 # Core Streamlit and data processing
-streamlit>=1.28.0
-pandas>=2.0.0
-numpy>=1.24.0
+streamlit
+pandas
+numpy
 
 # Visualization libraries
-plotly>=5.15.0
-matplotlib>=3.7.0
-seaborn>=0.12.0
+plotly
+matplotlib
+seaborn
 
 # Database and data connections
 sqlalchemy>=2.0.0
