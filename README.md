@@ -15,6 +15,7 @@
 ---
 
 ## 🌟 **Portfolio Highlights**
+<img width="1024" height="1024" alt="Generated Image September 17, 2025 - 5_09AM" src="https://github.com/user-attachments/assets/023c099b-887f-44ee-81e6-94b32ab0ac36" />
 
 <table>
 <tr>
