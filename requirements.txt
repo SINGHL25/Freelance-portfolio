@@ -11,17 +11,17 @@ seaborn
 # Database and data connections
 sqlalchemy
 sqlite3  # Usually comes with Python
-psycopg2-binary>=2.9.0  # PostgreSQL adapter
+psycopg2-binary  # PostgreSQL adapter
 
 # Utility libraries
 python-dotenv
 requests
-openpyxl>=3.1.0  # Excel file support
-xlrd>=2.0.0  # Legacy Excel support
+openpyxl  # Excel file support
+xlrd # Legacy Excel support
 
 # Optional: For advanced features
-redis>=4.6.0  # Caching (optional)
-schedule>=1.2.0  # Task scheduling (optional)
+redis  # Caching (optional)
+schedule  # Task scheduling (optional)
 
 # Development tools (optional)
 black
