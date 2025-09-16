@@ -1,5 +1,6 @@
 # Process uploaded or sample data
-!pip install --upgrade pip
+!pip install -r requirements.txt --verbose
+
 import streamlit as st
 import pandas as pd
 import numpy as np
