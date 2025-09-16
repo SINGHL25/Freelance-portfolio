@@ -315,6 +315,7 @@ docker run -p 8501:8501 data-portfolio
 ---
 
 ## 💼 **Services & Consultation**
+<img width="1024" height="1024" alt="Generated Image September 17, 2025 - 5_18AM" src="https://github.com/user-attachments/assets/de34a2c0-8794-4050-b354-92b7f01be09d" />
 
 ### 🎯 **Core Offerings**
 
