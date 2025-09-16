@@ -1,4 +1,5 @@
 # Process uploaded or sample data
+!pip install --upgrade pip
 import streamlit as st
 import pandas as pd
 import numpy as np
