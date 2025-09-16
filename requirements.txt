@@ -1,29 +1,4 @@
-# Core Streamlit and data processing
-streamlit
-pandas
-numpy
-
-# Visualization libraries
-plotly
-matplotlib
-seaborn
-
-# Database and data connections
-sqlalchemy
-sqlite3  # Usually comes with Python
-psycopg2-binary  # PostgreSQL adapter
-
-# Utility libraries
-python-dotenv
-requests
-openpyxl  # Excel file support
-xlrd # Legacy Excel support
-
-# Optional: For advanced features
-redis  # Caching (optional)
-schedule  # Task scheduling (optional)
-
-# Development tools (optional)
-black
-flake
-pytest
+streamlit>=1.28.0
+pandas>=2.0.0
+numpy>=1.24.0
+plotly>=5.15.0
